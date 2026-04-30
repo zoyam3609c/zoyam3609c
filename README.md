@@ -1,7 +1,78 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zoyam3609c&label=Profile%20views&color=0e75b6&style=flat" alt="zoyam3609c" />
+</p>
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+<h1 align="center">Hi 👋, I'm zoyam3609c</h1>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+---
+
+### 🧠 About Me
+
+- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
+- 🏃 I love walking — clears my mind and inspires my workflow  
+- 👯 I’m open to collaborating on web apps and frontend systems  
+- 🎯 My goal: Build interfaces that feel like magic ✨
+<img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
+
+ 
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=zoyam3609c&theme=radical&hide_border=true" 
+    width="400"
+  />
+</p>
+
+---
+
+#### Top Repositories
+
+
+<div align="center">
+<a href="https://github.com/zoyam3609c/graph">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=zoyam3609c&repo=graph&theme=buefy" />
+</a>
+
+<a href="https://github.com/zoyam3609c/openai-python">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=zoyam3609c&repo=openai-python&theme=buefy" />
+</a>
+
+</div>
+
+---
+
+### ☕ Let's Connect
+
+<p align="left">
+  <a href="https://github.com/zoyam3609c" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
